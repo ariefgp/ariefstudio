@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Gusti 👋",
   // profile: "/profile.webp",
   description:
-    "Hi, I'm an *Indonesian Fullstack Developer* with over *7 years* of development experience. I am currently working with *NextJS, ReactJS, NodeJS, Golang and Python*. ",
+  "Hi, I'm a *Software Engineer* with over *9 years* of development experience. I am currently building *Codekarsa* and playing with *JS-Family, Golang and Python*. Really interested on AI and Machine Learning. If you have an interesting project, please ping me! ",
   socials: [
     {
       label: "X",
